@@ -18,7 +18,7 @@ Karas - Sequential, Dense, LSTM, Dropout
 ![Prediction_Actual_Price](Prediction_Actual_Price.png)
 
 
-In Conclusions and future work
+In Conclusion and future work
 even if we didn't see any close prediction  but interms of the Trend we have some good indication on the direction of the stock heading either upward or downward, but this is a very short project and we will build up on more improvments in to the code - model furture for the prediction interms of dollar value. 
 
 https://amelchristy.github.io/Project-3/templates/Prediction.html
