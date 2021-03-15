@@ -1,7 +1,7 @@
 # Project-3
 ## Bitcoin Price Prediction
 
-Our group aims is to predict Bitcoin Stock Prices in the marketplace using historical data, we use Python and Machine Learning programes . Our data sources is from Yahoo finance -Historical price.
+Our group aims is to predict Bitcoin Stock Prices in the marketplace using historical data, we use Python and Machine Learning programs . Our data sources is from Yahoo finance -Historical price.
 
 ![historical_data](images/historical_data.png)
 ![Btc_historical](images/Btc_historical.png)
